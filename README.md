@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Anilbanner.png" alt="Banner" />
+</p>
+
 # 💫 About Me:
 My name is Anil Kumar Akula. I am currently working as an Associate Software Engineer with 1 year of hands-on experience in AWS DevOps, including CI/CD pipeline development, Docker containerization, and Kubernetes orchestration. I have been actively involved in implementing automated deployment workflows, optimizing cloud infrastructure, and supporting scalable, reliable DevOps solutions. 
 
